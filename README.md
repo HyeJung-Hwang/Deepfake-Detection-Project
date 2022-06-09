@@ -43,7 +43,6 @@ Deepfake Detection using Image Crop and Image recognition
 - [MTCCN](https://arxiv.org/abs/1604.02878) <br>
 - [Facenet](https://jkisaaclee.kro.kr/keras/facenet/deep%20learning/computer%20vision/2019/10/01/how_to_develop_a_face_recognition_system_using_facenet_in_keras_ko/)
 
-## 참여자
 
 
 
