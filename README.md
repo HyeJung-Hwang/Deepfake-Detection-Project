@@ -37,13 +37,6 @@ Deepfake Detection using Image Crop and Image recognition
 - [Resnet,MTCNN](https://github.com/timesler/facenet-pytorch/tree/master/models)
 
 
-## 결과 비교
-
-|모델|정확도|
-|----|------|
-|Resnet|테스트|
-|Facenet|테스트|
-
 
 ## 참고 문헌
 
